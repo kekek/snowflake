@@ -34,8 +34,7 @@ ID 格式从原始的Twitter snowflake 演变过来， 修改后的格式为
 
 ### 安装
 
-This assumes you already have a working Go environment, if not please see
-[this page](https://golang.org/doc/install) first.
+假设您已经有一个可以运行的Go环境，否则请参见[golang](https://golang.org/doc/install).
 
 ```sh
 go get github.com/kekek/snowflake
